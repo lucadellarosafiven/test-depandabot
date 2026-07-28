@@ -1,5 +1,5 @@
 # Presenta vulnerabilità di sicurezza note (RCE / ReDoS)
-requests==2.28.1
+requests==2.33.0
 werkzeug==2.2.2
 
 # Versione obsoleta (Major upgrade disponibile, la versione attuale è la 5.x)
