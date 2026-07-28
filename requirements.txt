@@ -3,7 +3,7 @@ requests==2.28.1
 werkzeug==2.2.2
 
 # Versione obsoleta (Major upgrade disponibile, la versione attuale è la 5.x)
-django==4.1.0
+django==4.2.30
 
 # Pacchetto di utility obsoleto
 urllib3==1.26.15
