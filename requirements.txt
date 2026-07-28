@@ -20,7 +20,7 @@ instructor==1.15.1
 numpy==2.4.4
 mcp==1.27.0
 pydantic==2.12.5
-pydantic-settings==2.14.0
+pydantic-settings==2.14.2
 python-dotenv==1.2.2
 redis==7.4.0
 scipy==1.17.1
