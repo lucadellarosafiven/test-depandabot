@@ -5,7 +5,7 @@ aiohttp==3.13.4
 aiosignal==1.4.0
 aiosqlite==0.22.1
 alembic==1.18.4
-cryptography==47.0.0
+cryptography==48.0.1
 fastapi==0.136.1
 fastmcp==3.2.4
 huggingface_hub==1.12.0
