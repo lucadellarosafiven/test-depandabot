@@ -1,12 +1,23 @@
 version: 2
 updates:
+  # Monitora i pacchetti Java (Maven)
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "13:30"
+    # Raggruppa gli aggiornamenti per fare i test più comodamente
+    groups:
+      java-dependencies:
+        patterns:
+          - "*"
+
   # Monitora i pacchetti Python (requirements.txt)
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
       time: "13:00"
-    # Raggruppa gli aggiornamenti per fare i test più comodamente
     groups:
       python-dependencies:
         patterns:
