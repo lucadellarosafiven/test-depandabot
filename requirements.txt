@@ -1,0 +1,7 @@
+requests==2.19.0 (Vulnerabile a problemi di esposizione di credenziali in ambienti specifici)
+django==2.2.0 (Soggetto a varie vulnerabilità SQL injection e DoS)
+flask==1.0.2 (Presenta vulnerabilità legate al debug pin e reindirizzamenti non sicuri)
+jinja2==2.10 (Vulnerabile a esecuzione di codice arbitrario in contesti specifici)
+pyyaml==5.1 (Vulnerabile a esecuzione di codice tramite caricamento non sicuro di YAML)
+numpy==1.15.4 (Soggetto a problemi di buffer overflow in versioni datate)
+cryptography==2.3 (Presenta problemi di gestione della memoria e vulnerabilità crittografiche)
