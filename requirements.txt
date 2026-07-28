@@ -7,3 +7,4 @@ django==4.1.0
 
 # Pacchetto di utility obsoleto
 urllib3==1.26.15
+pytest==8.3.4
