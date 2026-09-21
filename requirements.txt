@@ -6,5 +6,5 @@ werkzeug==3.1.8
 django==6.1.1
 
 # Pacchetto di utility obsoleto
-urllib3==2.7.0
+urllib3==2.8.0
 pytest==9.1.1
