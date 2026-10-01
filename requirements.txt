@@ -1,6 +1,6 @@
 # Presenta vulnerabilità di sicurezza note (RCE / ReDoS)
 requests==2.34.2
-werkzeug==3.1.8
+werkzeug==3.1.9
 
 # Versione obsoleta (Major upgrade disponibile, la versione attuale è la 5.x)
 django==6.1.1
